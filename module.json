@@ -1,0 +1,53 @@
+{
+  "id": "delta-green-open-mythos",
+  "title": "Delta Green: Open Mythos",
+  "version": "0.1.0",
+  "url": "https://github.com/stories-with-dice/delta-green-open-mythos",
+  "manifest": "https://raw.githubusercontent.com/stories-with-dice/delta-green-open-mythos/main/module.json",
+  "download": "https://codeload.github.com/stories-with-dice/delta-green-open-mythos/zip/main",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "deltagreen",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "Compendia of the Open Mythos elements developed by the Cthulhu Eternal team. https://cthulhueternal.com/open-mythos/\n\nWork in progress",
+  "authors": [
+    {
+      "name": "christopher dimitrios",
+      "email": "chaosbadgerpub@gmail.com",
+      "url": "https://storieswithdice.com/"
+    }
+  ],
+  "packs": [
+    {
+      "name": "open-mythos-entities",
+      "label": "Open Mythos: Entities",
+      "path": "packs/open-mythos-entities",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "deltagreen"
+    },
+    {
+      "name": "open-mythos-rituals",
+      "label": "Open Mythos: Rituals",
+      "path": "packs/open-mythos-rituals",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "deltagreen"
+    }
+  ]
+}
