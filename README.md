@@ -3,7 +3,7 @@
 > Work in progress!
 > Please contribute any monster, ritual, or artifact.
 
-This module contains entities, artifacts, rituals that are in the public domain, as statted by the Cthulhu Eternal team, over at https://cthulhueternal.com/open-mythos/.
+This module contains entities, artifacts, rituals that are in the public domain, as statted by the Cthulhu Eternal team, over at https://cthulhueternal.com/open-mythos/. Also available in PDF, for PWYW, on DriveThruRPG [here](https://www.drivethrurpg.com/product/434982/The-Open-Cthulhu-Mythos-SRD).
 
 **Screenshots**
 
@@ -37,6 +37,8 @@ Using original art from the Open Mythos project, with permission. Art released u
 - Moon Beast by Brad Hicks
 - Night-gaunt by Brad Hicks
 - Haunter in the Dark by Brad Hicks
+- Rat Thing by Lola Valola
+- Resurrected Abomination by Tayna Rezunenko
 - Shoggoth by Brad Hicks
 - Shub-Niggurath by Brad Hicks
 - Spider From Leng by Brad Hicks

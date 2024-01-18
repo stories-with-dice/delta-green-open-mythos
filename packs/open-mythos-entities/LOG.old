@@ -1,15 +1,17 @@
-2024/01/16-18:40:04.465 4184 Recovering log #46
-2024/01/16-18:40:04.476 4184 Delete type=0 #46
-2024/01/16-18:40:04.476 4184 Delete type=3 #44
-2024/01/16-18:41:00.365 2704 Level-0 table #52: started
-2024/01/16-18:41:00.373 2704 Level-0 table #52: 133376 bytes OK
-2024/01/16-18:41:00.377 2704 Delete type=0 #50
-2024/01/16-18:41:00.381 2704 Manual compaction at level-0 from '!actors!1ljCSzQ1Ts5jROa1' @ 72057594037927935 : 1 .. '!folders!kypICOE89vurSELP' @ 0 : 0; will stop at (end)
-2024/01/16-18:41:00.381 2704 Manual compaction at level-1 from '!actors!1ljCSzQ1Ts5jROa1' @ 72057594037927935 : 1 .. '!folders!kypICOE89vurSELP' @ 0 : 0; will stop at '!folders!kypICOE89vurSELP' @ 339 : 1
-2024/01/16-18:41:00.381 2704 Compacting 1@1 + 1@2 files
-2024/01/16-18:41:00.390 2704 Generated table #53@1: 62 keys, 132748 bytes
-2024/01/16-18:41:00.390 2704 Compacted 1@1 + 1@2 files => 132748 bytes
-2024/01/16-18:41:00.397 2704 compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/01/16-18:41:00.398 2704 Delete type=2 #48
-2024/01/16-18:41:00.398 2704 Delete type=2 #52
-2024/01/16-18:41:00.412 2704 Manual compaction at level-1 from '!folders!kypICOE89vurSELP' @ 339 : 1 .. '!folders!kypICOE89vurSELP' @ 0 : 0; will stop at (end)
+2024/01/18-17:08:13.810 f14 Recovering log #56
+2024/01/18-17:08:13.810 f14 Recovering log #60
+2024/01/18-17:08:13.820 f14 Delete type=0 #56
+2024/01/18-17:08:13.820 f14 Delete type=0 #60
+2024/01/18-17:08:13.821 f14 Delete type=3 #54
+2024/01/18-17:22:08.857 46c4 Level-0 table #63: started
+2024/01/18-17:22:08.860 46c4 Level-0 table #63: 134008 bytes OK
+2024/01/18-17:22:08.864 46c4 Delete type=0 #61
+2024/01/18-17:22:08.864 46c4 Manual compaction at level-0 from '!actors!1ljCSzQ1Ts5jROa1' @ 72057594037927935 : 1 .. '!folders!kypICOE89vurSELP' @ 0 : 0; will stop at (end)
+2024/01/18-17:22:08.887 46c4 Manual compaction at level-1 from '!actors!1ljCSzQ1Ts5jROa1' @ 72057594037927935 : 1 .. '!folders!kypICOE89vurSELP' @ 0 : 0; will stop at '!folders!kypICOE89vurSELP' @ 549 : 1
+2024/01/18-17:22:08.887 46c4 Compacting 1@1 + 1@2 files
+2024/01/18-17:22:08.891 46c4 Generated table #64@1: 62 keys, 133375 bytes
+2024/01/18-17:22:08.891 46c4 Compacted 1@1 + 1@2 files => 133375 bytes
+2024/01/18-17:22:08.895 46c4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/01/18-17:22:08.895 46c4 Delete type=2 #58
+2024/01/18-17:22:08.895 46c4 Delete type=2 #63
+2024/01/18-17:22:08.904 46c4 Manual compaction at level-1 from '!folders!kypICOE89vurSELP' @ 549 : 1 .. '!folders!kypICOE89vurSELP' @ 0 : 0; will stop at (end)
