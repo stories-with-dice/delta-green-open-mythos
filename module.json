@@ -6,7 +6,7 @@
   "manifest": "https://raw.githubusercontent.com/stories-with-dice/delta-green-open-mythos/main/module.json",
   "download": "https://codeload.github.com/stories-with-dice/delta-green-open-mythos/zip/main",
   "compatibility": {
-    "minimum": "11",
+    "minimum": "12",
     "verified": "12"
   },
   "relationships": {
