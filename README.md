@@ -14,7 +14,7 @@ This module contains entities, artifacts, rituals that are in the public domain,
 
 ## Installation
 
-> Requires Foundry 11 and the Delta Green module.
+> Requires Foundry 12 and the Delta Green module.
 
 Use this as a manifest to install the module: 
 
