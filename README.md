@@ -1,10 +1,13 @@
 # Open Mythos for Delta Green: Foundry VTT Compendia
 
-> Work in progress!
->
-> Please contribute any monster, ritual, or artifact, as long as you adhere to the [License](#license).
-
 This module contains entities, artifacts, rituals that are in the public domain, as statted by the Cthulhu Eternal team, over at https://cthulhueternal.com/open-mythos/. Also available in PDF, for PWYW, on DriveThruRPG [here](https://www.drivethrurpg.com/product/434982/The-Open-Cthulhu-Mythos-SRD).
+
+Contents:
+
+- all entities
+- all rituals
+- all artifacts
+- all tomes
 
 **Screenshots**
 
@@ -55,3 +58,8 @@ Using original art from the Open Mythos project, with permission. Art released u
 - Yog-Sothoth by Brad Hicks
 
 Also using [Game Icons](https://game-icons.net/), under CC BY 3.0.
+
+### Contributors
+
+- [christopher dimitrios](http://www.storieswithdice.com/)
+- [Vogliadicone](https://github.com/Vogliadicone)
