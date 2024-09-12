@@ -1,8 +1,3 @@
-2024/09/04-07:09:40.907534 e30c54d4f000 Recovering log #242
-2024/09/04-07:09:40.912764 e30c54d4f000 Delete type=0 #242
-2024/09/04-07:09:40.912787 e30c54d4f000 Delete type=3 #240
-2024/09/04-21:46:53.608284 e30c3ebff000 Level-0 table #247: started
-2024/09/04-21:46:53.608303 e30c3ebff000 Level-0 table #247: 0 bytes OK
-2024/09/04-21:46:53.609792 e30c3ebff000 Delete type=0 #245
-2024/09/04-21:46:53.611575 e30c3ebff000 Manual compaction at level-0 from '!actors!1C9H6u3Flqxpves2' @ 72057594037927935 : 1 .. '!folders!kypICOE89vurSELP' @ 0 : 0; will stop at (end)
-2024/09/04-21:46:53.611856 e30c3ebff000 Manual compaction at level-1 from '!actors!1C9H6u3Flqxpves2' @ 72057594037927935 : 1 .. '!folders!kypICOE89vurSELP' @ 0 : 0; will stop at (end)
+2024/09/10-11:45:14.841050 e30c3f7ef000 Recovering log #216
+2024/09/10-11:45:14.846008 e30c3f7ef000 Delete type=0 #216
+2024/09/10-11:45:14.846036 e30c3f7ef000 Delete type=3 #214
