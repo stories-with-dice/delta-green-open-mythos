@@ -1,7 +1,7 @@
 {
   "id": "delta-green-open-mythos",
   "title": "Delta Green: Open Mythos",
-  "version": "0.3",
+  "version": "0.4",
   "url": "https://github.com/stories-with-dice/delta-green-open-mythos",
   "manifest": "https://raw.githubusercontent.com/stories-with-dice/delta-green-open-mythos/main/module.json",
   "download": "https://codeload.github.com/stories-with-dice/delta-green-open-mythos/zip/main",
@@ -23,7 +23,14 @@
     {
       "name": "christopher dimitrios",
       "email": "chaosbadgerpub@gmail.com",
-      "url": "https://storieswithdice.com/"
+      "url": "https://storieswithdice.com/",
+      "flags": {}
+    },
+    {
+      "name": "Vogliadicone",
+      "email": "",
+      "url": "https://github.com/Vogliadicone",
+      "flags": {}
     }
   ],
   "packs": [
@@ -32,22 +39,22 @@
       "label": "Open Mythos: Entities",
       "path": "packs/open-mythos-entities",
       "type": "Actor",
+      "system": "deltagreen",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "deltagreen"
+      }
     },
     {
-      "name": "open-mythos-rituals",
-      "label": "Open Mythos: Rituals",
-      "path": "packs/open-mythos-rituals",
+      "name": "open-mythos-items",
+      "label": "Open Mythos: Items",
+      "path": "packs/open-mythos-items",
       "type": "Item",
+      "system": "deltagreen",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "deltagreen"
+      }
     }
   ]
 }

@@ -22,13 +22,24 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 ### Known Issues
 -->
 
-## 0.3
+## 0.4
 
 ### Added
 
-- Updated and completed Entities. **by @Vogliadicone**
+- Added artifacts, rituals and tomes. **by @Vogliadicone**
 
 
 ### Changed
 
-- Release compatible with Delta Green 1.4.7 and Foundry v12, this release is not backwards compatible with older versions of Foundry.
+- Updated the ritual items in the entities gear.
+
+## 0.3
+
+### Added
+
+- Updated and completed entities. **by @Vogliadicone**
+
+
+### Changed
+
+- Release compatible with Delta Green 1.4.7 and Foundry v12. This release is not backwards compatible with older versions of Foundry.
